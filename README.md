@@ -1,2 +1,2 @@
 # autonomous-robot
-3rd year mechatronics project
+3rd year mechatronics project for school.
